@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonathan Mendes ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendescaris)
-[![WhatSapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:wa.me/5541995247246)
+[![WhatSapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5541995247246&text&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/carisjhow@gmail.com)
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caxara&show_icons=true&theme=dracula)
